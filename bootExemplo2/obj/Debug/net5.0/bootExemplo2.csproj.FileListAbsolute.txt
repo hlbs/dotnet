@@ -1,0 +1,16 @@
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo2\obj\Debug\net5.0\bootExemplo2.csprojAssemblyReference.cache
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo2\obj\Debug\net5.0\bootExemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo2\obj\Debug\net5.0\bootExemplo2.AssemblyInfoInputs.cache
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo2\obj\Debug\net5.0\bootExemplo2.AssemblyInfo.cs
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo2\obj\Debug\net5.0\bootExemplo2.csproj.CoreCompileInputs.cache
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo2\bin\Debug\net5.0\bootExemplo2.exe
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo2\bin\Debug\net5.0\bootExemplo2.deps.json
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo2\bin\Debug\net5.0\bootExemplo2.runtimeconfig.json
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo2\bin\Debug\net5.0\bootExemplo2.runtimeconfig.dev.json
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo2\bin\Debug\net5.0\bootExemplo2.dll
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo2\bin\Debug\net5.0\ref\bootExemplo2.dll
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo2\bin\Debug\net5.0\bootExemplo2.pdb
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo2\obj\Debug\net5.0\bootExemplo2.dll
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo2\obj\Debug\net5.0\ref\bootExemplo2.dll
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo2\obj\Debug\net5.0\bootExemplo2.pdb
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo2\obj\Debug\net5.0\bootExemplo2.genruntimeconfig.cache

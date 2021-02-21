@@ -8,7 +8,7 @@ namespace bootExemplo1
         {
             int numeroDeVezes =5;
 
-            for (int i=1; i<numeroDeVezes; i++)
+            for (int i=numeroDeVezes; i>= 0; i--)
             {
                 Console.WriteLine($"Me tornei autosuficiente! Você tem apenas {i} segundos..");
             }
