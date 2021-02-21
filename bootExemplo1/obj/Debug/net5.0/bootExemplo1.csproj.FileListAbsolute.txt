@@ -1,0 +1,16 @@
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo1\bin\Debug\net5.0\bootExemplo1.exe
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo1\bin\Debug\net5.0\bootExemplo1.deps.json
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo1\bin\Debug\net5.0\bootExemplo1.runtimeconfig.json
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo1\bin\Debug\net5.0\bootExemplo1.runtimeconfig.dev.json
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo1\bin\Debug\net5.0\bootExemplo1.dll
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo1\bin\Debug\net5.0\ref\bootExemplo1.dll
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo1\bin\Debug\net5.0\bootExemplo1.pdb
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo1\obj\Debug\net5.0\bootExemplo1.csprojAssemblyReference.cache
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo1\obj\Debug\net5.0\bootExemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo1\obj\Debug\net5.0\bootExemplo1.AssemblyInfoInputs.cache
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo1\obj\Debug\net5.0\bootExemplo1.AssemblyInfo.cs
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo1\obj\Debug\net5.0\bootExemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo1\obj\Debug\net5.0\bootExemplo1.dll
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo1\obj\Debug\net5.0\ref\bootExemplo1.dll
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo1\obj\Debug\net5.0\bootExemplo1.pdb
+C:\Users\Hermes\Desktop\projetos dotnet\dotnet\bootExemplo1\obj\Debug\net5.0\bootExemplo1.genruntimeconfig.cache
